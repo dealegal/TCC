@@ -23,12 +23,12 @@ NOTEBOOKS:
 7) TCC - Avaliação Final dos Modelos.ipynb
 
 BASES UTILIZADAS:
-Dados/declaracoes_2019.csv
-Dados/declaracoes_2019_1_4.csv
-Dados/gini_2019.csv
-Dados/municipios_TOM.csv
-Dados/populacao_2019.csv
+  Dados/declaracoes_2019.csv
+  Dados/declaracoes_2019_1_4.csv
+  Dados/gini_2019.csv
+  Dados/municipios_TOM.csv
+  Dados/populacao_2019.csv
 
 ARQUIVOS COM OS RESULTADOS OBTIDOS
-Resultados/resultado_busca.txt
-Resultados/modelos_por_metrica.txt
+  Resultados/resultado_busca.txt
+  Resultados/modelos_por_metrica.txt
